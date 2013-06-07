@@ -2,5 +2,5 @@ indexes:
 - kind: Greeting
   ancestor: yes
   properties:
-  - name: date
+  - name: vote
     direction: desc
